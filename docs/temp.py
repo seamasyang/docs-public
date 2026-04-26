@@ -44,6 +44,15 @@ print(f"  角度: {angles} (相同)")
 
 # 计算面积（使用海伦公式）
 def triangle_area(sides):
+    """
+    使用海伦公式计算三角形面积
+
+    参数:
+    sides: 边长三元组 (a, b, c)
+
+    返回:
+    三角形面积
+    """
     a, b, c = sides
     s = (a + b + c) / 2
     return math.sqrt(s * (s - a) * (s - b) * (s - c))
