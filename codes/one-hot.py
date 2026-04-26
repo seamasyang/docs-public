@@ -5,13 +5,23 @@
 # 香蕉 = [0, 1, 0]  # 第2个位置是1，其他是0
 # 橙子 = [0, 0, 1]  # 第3个位置是1，其他是0
 
+import platform
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 
-plt.rcParams['font.sans-serif'] = ['SimHei']          
-plt.rcParams['axes.unicode_minus'] = False  
+def set_chinese_font():
+    system = platform.system()
+    if system == 'Windows':
+        plt.rcParams['font.sans-serif'] = ['Microsoft YaHei', 'SimHei', 'DejaVu Sans']
+    elif system == 'Darwin':  # macOS
+        plt.rcParams['font.sans-serif'] = ['PingFang SC', 'Heiti SC', 'Arial Unicode MS']
+    else:  # Linux
+        plt.rcParams['font.sans-serif'] = ['WenQuanYi Micro Hei', 'Noto Sans CJK SC', 'DejaVu Sans']
+    plt.rcParams['axes.unicode_minus'] = False  # 解决负号显示问题
+
+set_chinese_font() 
 
 def one_hot_basic_concept():
     """
