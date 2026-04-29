@@ -1,0 +1,138 @@
+﻿antecedents,consequents,support,confidence,lift
+"frozenset({'Angels and Demons', 'The Lost Symbol'})",frozenset({'Digital Fortress'}),0.06666666666666667,1.0,7.5
+"frozenset({'Digital Fortress', 'Angels and Demons'})",frozenset({'The Lost Symbol'}),0.06666666666666667,0.5,7.5
+frozenset({'Phone Grip'}),frozenset({'Screen Protector'}),0.06666666666666667,1.0,7.5
+frozenset({'Screen Protector'}),frozenset({'Phone Grip'}),0.06666666666666667,0.5,7.5
+"frozenset({'The Da Vinci Code', 'Angels and Demons'})",frozenset({'Inferno'}),0.06666666666666667,0.5,7.5
+frozenset({'Inferno'}),"frozenset({'The Da Vinci Code', 'Angels and Demons'})",0.06666666666666667,1.0,7.5
+frozenset({'Harry Potter Wand'}),frozenset({'Harry Potter Scarf'}),0.06666666666666667,0.5,7.5
+frozenset({'The Lost Symbol'}),frozenset({'Digital Fortress'}),0.06666666666666667,1.0,7.5
+frozenset({'Digital Fortress'}),frozenset({'The Lost Symbol'}),0.06666666666666667,0.5,7.5
+"frozenset({'Harry Potter Wand', 'Harry Potter Book'})",frozenset({'Harry Potter Scarf'}),0.06666666666666667,0.5,7.5
+"frozenset({'Harry Potter Scarf', 'Harry Potter Book'})",frozenset({'Harry Potter Wand'}),0.06666666666666667,1.0,7.5
+frozenset({'Screen Protector'}),"frozenset({'iPhone Case', 'Phone Grip'})",0.06666666666666667,0.5,7.5
+frozenset({'Phone Grip'}),"frozenset({'iPhone Case', 'Screen Protector'})",0.06666666666666667,1.0,7.5
+"frozenset({'iPhone Case', 'Screen Protector'})",frozenset({'Phone Grip'}),0.06666666666666667,0.5,7.5
+"frozenset({'iPhone Case', 'Phone Grip'})",frozenset({'Screen Protector'}),0.06666666666666667,1.0,7.5
+frozenset({'Harry Potter Scarf'}),"frozenset({'Harry Potter Wand', 'Harry Potter Book'})",0.06666666666666667,1.0,7.5
+frozenset({'Harry Potter Wand'}),"frozenset({'Harry Potter Scarf', 'Harry Potter Book'})",0.06666666666666667,0.5,7.5
+frozenset({'The Lost Symbol'}),"frozenset({'Digital Fortress', 'Angels and Demons'})",0.06666666666666667,1.0,7.5
+frozenset({'Digital Fortress'}),"frozenset({'Angels and Demons', 'The Lost Symbol'})",0.06666666666666667,0.5,7.5
+frozenset({'Harry Potter Scarf'}),frozenset({'Harry Potter Wand'}),0.06666666666666667,1.0,7.5
+frozenset({'AirPods'}),frozenset({'iPhone Charger'}),0.13333333333333333,1.0,5.0
+frozenset({'Angels and Demons'}),frozenset({'Digital Fortress'}),0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Digital Fortress'}),frozenset({'Angels and Demons'}),0.13333333333333333,1.0,5.0
+frozenset({'iPhone Charger'}),frozenset({'AirPods'}),0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Angels and Demons'}),frozenset({'Inferno'}),0.06666666666666667,0.3333333333333333,5.0
+frozenset({'Book Light'}),"frozenset({'The Da Vinci Code', 'Bookmark'})",0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Bookmark'}),"frozenset({'The Da Vinci Code', 'Book Light'})",0.13333333333333333,1.0,5.0
+"frozenset({'The Da Vinci Code', 'Harry Potter Book'})",frozenset({'Book Light'}),0.13333333333333333,1.0,5.0
+frozenset({'Inferno'}),frozenset({'Angels and Demons'}),0.06666666666666667,1.0,5.0
+"frozenset({'iPhone Case', 'AirPods'})",frozenset({'iPhone Charger'}),0.13333333333333333,1.0,5.0
+frozenset({'iPhone Charger'}),"frozenset({'iPhone Case', 'AirPods'})",0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Angels and Demons'}),"frozenset({'The Da Vinci Code', 'Digital Fortress'})",0.06666666666666667,0.3333333333333333,5.0
+frozenset({'The Lost Symbol'}),frozenset({'Angels and Demons'}),0.06666666666666667,1.0,5.0
+"frozenset({'The Da Vinci Code', 'Digital Fortress'})",frozenset({'Angels and Demons'}),0.06666666666666667,1.0,5.0
+frozenset({'Angels and Demons'}),"frozenset({'Digital Fortress', 'The Lost Symbol'})",0.06666666666666667,0.3333333333333333,5.0
+frozenset({'AirPods'}),"frozenset({'iPhone Case', 'iPhone Charger'})",0.13333333333333333,1.0,5.0
+"frozenset({'iPhone Case', 'iPhone Charger'})",frozenset({'AirPods'}),0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Bookmark'}),frozenset({'Book Light'}),0.13333333333333333,1.0,5.0
+frozenset({'Book Light'}),frozenset({'Bookmark'}),0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Harry Potter DVD'}),frozenset({'Harry Potter Soundtrack'}),0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Angels and Demons'}),frozenset({'The Lost Symbol'}),0.06666666666666667,0.3333333333333333,5.0
+"frozenset({'Digital Fortress', 'The Lost Symbol'})",frozenset({'Angels and Demons'}),0.06666666666666667,1.0,5.0
+"frozenset({'The Da Vinci Code', 'Inferno'})",frozenset({'Angels and Demons'}),0.06666666666666667,1.0,5.0
+frozenset({'Book Light'}),"frozenset({'The Da Vinci Code', 'Bookmark', 'Harry Potter Book'})",0.06666666666666667,0.3333333333333333,5.0
+"frozenset({'The Da Vinci Code', 'Book Light'})",frozenset({'Bookmark'}),0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Book Light'}),"frozenset({'Bookmark', 'Harry Potter Book'})",0.06666666666666667,0.3333333333333333,5.0
+"frozenset({'The Da Vinci Code', 'Bookmark'})",frozenset({'Book Light'}),0.13333333333333333,1.0,5.0
+"frozenset({'Bookmark', 'Harry Potter Book'})",frozenset({'Book Light'}),0.06666666666666667,1.0,5.0
+frozenset({'Angels and Demons'}),"frozenset({'The Da Vinci Code', 'Inferno'})",0.06666666666666667,0.3333333333333333,5.0
+frozenset({'Harry Potter Soundtrack'}),frozenset({'Harry Potter DVD'}),0.13333333333333333,1.0,5.0
+"frozenset({'Bookmark', 'Harry Potter Book'})","frozenset({'The Da Vinci Code', 'Book Light'})",0.06666666666666667,1.0,5.0
+"frozenset({'Harry Potter Soundtrack', 'Harry Potter Book'})",frozenset({'Harry Potter DVD'}),0.06666666666666667,1.0,5.0
+"frozenset({'The Da Vinci Code', 'Bookmark', 'Harry Potter Book'})",frozenset({'Book Light'}),0.06666666666666667,1.0,5.0
+"frozenset({'The Da Vinci Code', 'Book Light'})","frozenset({'Bookmark', 'Harry Potter Book'})",0.06666666666666667,0.3333333333333333,5.0
+frozenset({'Book Light'}),"frozenset({'The Da Vinci Code', 'Harry Potter Book'})",0.13333333333333333,0.6666666666666666,5.0
+frozenset({'Harry Potter DVD'}),"frozenset({'Harry Potter Soundtrack', 'Harry Potter Book'})",0.06666666666666667,0.3333333333333333,5.0
+frozenset({'iPhone Case'}),frozenset({'AirPods'}),0.13333333333333333,0.5,3.75
+"frozenset({'Book Light', 'Harry Potter Book'})","frozenset({'The Da Vinci Code', 'Bookmark'})",0.06666666666666667,0.5,3.75
+frozenset({'AirPods'}),frozenset({'iPhone Case'}),0.13333333333333333,1.0,3.75
+"frozenset({'The Da Vinci Code', 'Angels and Demons'})",frozenset({'Digital Fortress'}),0.06666666666666667,0.5,3.75
+"frozenset({'AirPods', 'iPhone Charger'})",frozenset({'iPhone Case'}),0.13333333333333333,1.0,3.75
+frozenset({'iPhone Charger'}),frozenset({'iPhone Case'}),0.2,1.0,3.75
+frozenset({'iPhone Case'}),frozenset({'Screen Protector'}),0.13333333333333333,0.5,3.75
+frozenset({'Bookmark'}),"frozenset({'The Da Vinci Code', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+frozenset({'Harry Potter Soundtrack'}),"frozenset({'Harry Potter DVD', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+"frozenset({'Harry Potter Poster', 'Harry Potter Book'})",frozenset({'Harry Potter Wand'}),0.06666666666666667,0.5,3.75
+frozenset({'Digital Fortress'}),"frozenset({'The Da Vinci Code', 'Angels and Demons'})",0.06666666666666667,0.5,3.75
+frozenset({'iPhone Case'}),"frozenset({'AirPods', 'iPhone Charger'})",0.13333333333333333,0.5,3.75
+frozenset({'Harry Potter Wand'}),frozenset({'Harry Potter Poster'}),0.06666666666666667,0.5,3.75
+frozenset({'Screen Protector'}),frozenset({'iPhone Case'}),0.13333333333333333,1.0,3.75
+frozenset({'Phone Grip'}),frozenset({'iPhone Case'}),0.06666666666666667,1.0,3.75
+frozenset({'Harry Potter Poster'}),frozenset({'Harry Potter Wand'}),0.06666666666666667,0.5,3.75
+frozenset({'iPhone Case'}),frozenset({'iPhone Charger'}),0.2,0.75,3.75
+"frozenset({'Harry Potter DVD', 'Harry Potter Book'})",frozenset({'Harry Potter Poster'}),0.06666666666666667,0.5,3.75
+"frozenset({'The Da Vinci Code', 'Harry Potter Book'})","frozenset({'Bookmark', 'Book Light'})",0.06666666666666667,0.5,3.75
+frozenset({'Bookmark'}),"frozenset({'The Da Vinci Code', 'Book Light', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+"frozenset({'Phone Grip', 'Screen Protector'})",frozenset({'iPhone Case'}),0.06666666666666667,1.0,3.75
+"frozenset({'The Da Vinci Code', 'Bookmark'})","frozenset({'Book Light', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+"frozenset({'Screen Protector', 'iPhone Charger'})",frozenset({'iPhone Case'}),0.06666666666666667,1.0,3.75
+"frozenset({'The Da Vinci Code', 'Book Light', 'Harry Potter Book'})",frozenset({'Bookmark'}),0.06666666666666667,0.5,3.75
+"frozenset({'Bookmark', 'Book Light'})","frozenset({'The Da Vinci Code', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+frozenset({'Harry Potter Wand'}),"frozenset({'Harry Potter Poster', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+"frozenset({'Harry Potter Wand', 'Harry Potter Book'})",frozenset({'Harry Potter Poster'}),0.06666666666666667,0.5,3.75
+frozenset({'Harry Potter Poster'}),"frozenset({'Harry Potter Wand', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+"frozenset({'Book Light', 'Harry Potter Book'})",frozenset({'Bookmark'}),0.06666666666666667,0.5,3.75
+"frozenset({'The Da Vinci Code', 'Harry Potter Book'})",frozenset({'Bookmark'}),0.06666666666666667,0.5,3.75
+frozenset({'Bookmark'}),"frozenset({'Book Light', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+frozenset({'Harry Potter Poster'}),"frozenset({'Harry Potter DVD', 'Harry Potter Book'})",0.06666666666666667,0.5,3.75
+"frozenset({'Harry Potter DVD', 'Harry Potter Book'})",frozenset({'Harry Potter Soundtrack'}),0.06666666666666667,0.5,3.75
+frozenset({'The Da Vinci Code'}),frozenset({'Book Light'}),0.2,0.6000000000000001,3.0000000000000004
+frozenset({'Bookmark'}),frozenset({'The Da Vinci Code'}),0.13333333333333333,1.0,3.0
+"frozenset({'Bookmark', 'Book Light', 'Harry Potter Book'})",frozenset({'The Da Vinci Code'}),0.06666666666666667,1.0,3.0
+frozenset({'The Da Vinci Code'}),"frozenset({'Book Light', 'Harry Potter Book'})",0.13333333333333333,0.4,3.0
+frozenset({'Inferno'}),frozenset({'The Da Vinci Code'}),0.06666666666666667,1.0,3.0
+frozenset({'The Da Vinci Code'}),frozenset({'Bookmark'}),0.13333333333333333,0.4,3.0
+frozenset({'Book Light'}),frozenset({'The Da Vinci Code'}),0.2,1.0,3.0
+"frozenset({'Inferno', 'Angels and Demons'})",frozenset({'The Da Vinci Code'}),0.06666666666666667,1.0,3.0
+"frozenset({'Bookmark', 'Harry Potter Book'})",frozenset({'The Da Vinci Code'}),0.06666666666666667,1.0,3.0
+"frozenset({'Book Light', 'Harry Potter Book'})",frozenset({'The Da Vinci Code'}),0.13333333333333333,1.0,3.0
+"frozenset({'Bookmark', 'Book Light'})",frozenset({'The Da Vinci Code'}),0.13333333333333333,1.0,3.0
+frozenset({'The Da Vinci Code'}),"frozenset({'Bookmark', 'Book Light'})",0.13333333333333333,0.4,3.0
+frozenset({'Harry Potter Wand'}),frozenset({'Harry Potter Book'}),0.13333333333333333,1.0,2.5
+frozenset({'Harry Potter DVD'}),frozenset({'Harry Potter Poster'}),0.06666666666666667,0.3333333333333333,2.5
+frozenset({'Harry Potter Poster'}),frozenset({'Harry Potter DVD'}),0.06666666666666667,0.5,2.5
+frozenset({'Harry Potter Book'}),frozenset({'Harry Potter Poster'}),0.13333333333333333,0.3333333333333333,2.5
+frozenset({'iPhone Charger'}),"frozenset({'iPhone Case', 'Screen Protector'})",0.06666666666666667,0.3333333333333333,2.5
+"frozenset({'iPhone Case', 'Screen Protector'})",frozenset({'iPhone Charger'}),0.06666666666666667,0.5,2.5
+"frozenset({'Harry Potter Wand', 'Harry Potter Poster'})",frozenset({'Harry Potter Book'}),0.06666666666666667,1.0,2.5
+"frozenset({'Harry Potter Wand', 'Harry Potter Scarf'})",frozenset({'Harry Potter Book'}),0.06666666666666667,1.0,2.5
+frozenset({'Screen Protector'}),"frozenset({'iPhone Case', 'iPhone Charger'})",0.06666666666666667,0.5,2.5
+"frozenset({'Harry Potter DVD', 'Harry Potter Poster'})",frozenset({'Harry Potter Book'}),0.06666666666666667,1.0,2.5
+"frozenset({'Harry Potter Poster', 'Harry Potter Book'})",frozenset({'Harry Potter DVD'}),0.06666666666666667,0.5,2.5
+frozenset({'Harry Potter DVD'}),"frozenset({'Harry Potter Poster', 'Harry Potter Book'})",0.06666666666666667,0.3333333333333333,2.5
+frozenset({'Harry Potter Scarf'}),frozenset({'Harry Potter Book'}),0.06666666666666667,1.0,2.5
+"frozenset({'iPhone Case', 'iPhone Charger'})",frozenset({'Screen Protector'}),0.06666666666666667,0.3333333333333333,2.5
+frozenset({'Screen Protector'}),frozenset({'iPhone Charger'}),0.06666666666666667,0.5,2.5
+frozenset({'iPhone Charger'}),frozenset({'Screen Protector'}),0.06666666666666667,0.3333333333333333,2.5
+frozenset({'Harry Potter Book'}),frozenset({'Harry Potter Wand'}),0.13333333333333333,0.3333333333333333,2.5
+frozenset({'Harry Potter Poster'}),frozenset({'Harry Potter Book'}),0.13333333333333333,1.0,2.5
+frozenset({'The Da Vinci Code'}),frozenset({'Angels and Demons'}),0.13333333333333333,0.4,2.0
+frozenset({'Angels and Demons'}),frozenset({'The Da Vinci Code'}),0.13333333333333333,0.6666666666666666,2.0
+frozenset({'Harry Potter Book'}),frozenset({'Harry Potter DVD'}),0.13333333333333333,0.3333333333333333,1.6666666666666665
+frozenset({'Book Light'}),frozenset({'Harry Potter Book'}),0.13333333333333333,0.6666666666666666,1.6666666666666665
+"frozenset({'The Da Vinci Code', 'Book Light'})",frozenset({'Harry Potter Book'}),0.13333333333333333,0.6666666666666666,1.6666666666666665
+frozenset({'Harry Potter Book'}),"frozenset({'The Da Vinci Code', 'Book Light'})",0.13333333333333333,0.3333333333333333,1.6666666666666665
+frozenset({'Harry Potter DVD'}),frozenset({'Harry Potter Book'}),0.13333333333333333,0.6666666666666666,1.6666666666666665
+frozenset({'Harry Potter Book'}),frozenset({'Book Light'}),0.13333333333333333,0.3333333333333333,1.6666666666666665
+"frozenset({'Digital Fortress', 'Angels and Demons'})",frozenset({'The Da Vinci Code'}),0.06666666666666667,0.5,1.5
+frozenset({'Digital Fortress'}),frozenset({'The Da Vinci Code'}),0.06666666666666667,0.5,1.5
+"frozenset({'Harry Potter DVD', 'Harry Potter Soundtrack'})",frozenset({'Harry Potter Book'}),0.06666666666666667,0.5,1.25
+"frozenset({'The Da Vinci Code', 'Bookmark'})",frozenset({'Harry Potter Book'}),0.06666666666666667,0.5,1.25
+frozenset({'Bookmark'}),frozenset({'Harry Potter Book'}),0.06666666666666667,0.5,1.25
+frozenset({'Harry Potter Soundtrack'}),frozenset({'Harry Potter Book'}),0.06666666666666667,0.5,1.25
+"frozenset({'Bookmark', 'Book Light'})",frozenset({'Harry Potter Book'}),0.06666666666666667,0.5,1.25
+"frozenset({'The Da Vinci Code', 'Bookmark', 'Book Light'})",frozenset({'Harry Potter Book'}),0.06666666666666667,0.5,1.25
+frozenset({'The Da Vinci Code'}),frozenset({'Harry Potter Book'}),0.13333333333333333,0.4,1.0
+frozenset({'Harry Potter Book'}),frozenset({'The Da Vinci Code'}),0.13333333333333333,0.3333333333333333,1.0
