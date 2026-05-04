@@ -1,0 +1,1665 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-windows ua-webkit">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+  
+    哪吒之魔童闹海的影评 (8255)
+</title>
+    
+  <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="Sun, 6 Mar 2005 01:00:00 GMT">
+  
+  
+  <meta name="keywords" content="评论,哪吒之魔童闹海,影评,观后感">
+  <meta name="description" content="哪吒之魔童闹海最新影评, 热门影评">
+  <link rel="alternate" href="/feed/subject/34780991/reviews" type="application/rss+xml" title="RSS">
+
+  <link href="https://img1.doubanio.com/f/vendors/fae7e145bf16b2f427ba0fe7ef3d47c04af3a6c0/css/douban.css" rel="stylesheet" type="text/css">
+  <link href="https://img1.doubanio.com/f/vendors/ee6598d46af0bc554cecec9bcbf525b9b0582cb0/css/separation/_all.css" rel="stylesheet" type="text/css">
+  <link href="https://img1.doubanio.com/f/zerkalo/4b7b75331a86c9c8275ac6b7306e820fc072e09a/css/init.css" rel="stylesheet" type="text/css">
+  <!-- COLLECTED CSS -->
+  <style type="text/css"></style>
+
+  <script type="text/javascript">var _head_start = new Date();</script>
+
+  <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/6931d89467c7bd3bb6cd748c05cae22368989aea/js/jquery-1.9.1.min.js"></script>
+
+  <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/e258329ca4b2122b4efe53fddc418967441e0e7f/js/douban.js"></script>
+  <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/3c6b740d698898fddd4bb845e4dc1ca29b335dd1/js/lib/moreurl.js"></script>
+  <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/b0d3faaf7a432605add54908e39e17746824d6cc/js/separation/_all.js"></script>
+  <script type="text/javascript"></script>
+  
+
+
+    <link rel="shortcut icon" href="https://img1.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+  
+  <script type="text/javascript">var _body_start = new Date();</script>
+
+  
+
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/f8b2226/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=main" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="on">
+      <a href="https://www.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="">
+      <a href="https://movie.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/podcast/" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-podcast&quot;,&quot;uid&quot;:&quot;0&quot;}">播客</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://fm.douban.com&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/f8b2226/shire/bundle.js" defer="defer"></script>
+
+
+
+
+
+      
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/f8b2226/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;movie/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >选剧集</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2025/?fullscreen=1&dt_from=movie_navigation"
+     >2025年度榜单</a>
+    </li>
+    <li    ><a href="https://c9.douban.com/app/standbyme-2025/?autorotate=false&fullscreen=true&hidenav=true&monitor_screenshot=true&df_from=web_navigation"
+            target="_blank"
+     >2025年度报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://movie.douban.com/annual/2025/?fullscreen=1&source=movie_navigation_logo" class="movieannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/f8b2226/movie/bundle.js" defer="defer"></script>
+
+
+
+
+
+  
+  <div id="wrapper" class="movie-content review-wrapper">
+    
+
+    
+  <div id="content">
+    
+    <h1>哪吒之魔童闹海的影评 (8255)</h1>
+
+    <div class="grid-16-8 clearfix">
+      
+      
+      <div class="article">
+        
+  
+    <ul class="top-tab clearfix">
+            
+  
+  <li class="selected">    <a href="javascript:;">      <span>最受欢迎的</span>    </a>  </li>
+
+      
+
+    </ul>
+  
+
+
+
+<link rel="stylesheet" href="https://img1.doubanio.com/cuphead/zerkalo-static/review/list.f3448.css">
+
+<div class="review-list  ">
+        
+    
+
+            
+    
+    <div data-cid="16459075">
+        <div class="main review-item" id="16459075">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/140259862/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u140259862-4.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/140259862/" class="name">云霁</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-01-30" class="main-meta">2025-01-30 04:07:28</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16459075/">这烂成一团的剧情到底谁在夸</a></h2>
+
+                <div id="review_16459075_short" class="review-short" data-rid="16459075">
+                    <div class="short-content">
+
+                        凌晨三点没精力整理思路了，乱七八糟想到哪儿写到哪儿 有剧透慎点 · 特效画面非常好，完全值回票钱了，图个大过年的不想费脑子，就想看个视效的，直接买票冲，完全没问题✓，想带点脑子看剧情的，建议是三思吧。 · 四海龙王第一次打上陈塘关，李靖殷夫人看到哪吒有危险就立...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16459075-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16459075_full" class="hidden">
+                    <div id="review_16459075_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16459075" title="有用">
+                            5446
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16459075" title="没用">
+                            1840
+                    </a>
+                    <a href="https://movie.douban.com/review/16459075/#comments" class="reply ">1997回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16459075">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16457209">
+        <div class="main review-item" id="16457209">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/254625726/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u254625726-7.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/254625726/" class="name">葛大爷</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-01-29" class="main-meta">2025-01-29 21:44:46</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16457209/">把仙翁塑造成世俗意义上的恶人，这个电影立意就落入俗套了</a></h2>
+
+                <div id="review_16457209_short" class="review-short" data-rid="16457209">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        欢迎讨论，骂人的都反弹，看到的会删。 电影里十二金仙说不能师出无名去剿灭龙族，太乙真人对仙翁说仙翁的做法违背教义，以及仙翁自己的表演，证明他们阐教内部是有道义存在，是有一套大家都认可的是非观的。但是同时，阐教内部认为妖魔都是恶的，所以要收到阐教教化，但是不应...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16457209-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16457209_full" class="hidden">
+                    <div id="review_16457209_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16457209" title="有用">
+                            4055
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16457209" title="没用">
+                            1357
+                    </a>
+                    <a href="https://movie.douban.com/review/16457209/#comments" class="reply ">1605回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16457209">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16462035">
+        <div class="main review-item" id="16462035">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/yysyyyds/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u204233160-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/yysyyyds/" class="name">飛</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-01-30" class="main-meta">2025-01-30 20:45:21</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16462035/">唯余叹息——哪吒2的成功是快餐流量的狂欢，也是对电影艺术的侮辱</a></h2>
+
+                <div id="review_16462035_short" class="review-short" data-rid="16462035">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        哪吒2开分8.5，大感震惊，似乎与我观影感受有所出入，特来交流一番。（加更：墙裂恳请认同的点赞转发，就为了争口气顶上去给群众们看看！！） 2.15加更：不少朋友拿哪吒2的票房成绩来作为为其站台的论据，我想问票房成绩能跟影片质量划等号吗？我一说这话又有理中客来说：那你...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16462035-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16462035_full" class="hidden">
+                    <div id="review_16462035_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16462035" title="有用">
+                            3634
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16462035" title="没用">
+                            1064
+                    </a>
+                    <a href="https://movie.douban.com/review/16462035/#comments" class="reply ">2296回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16462035">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16454579">
+        <div class="main review-item" id="16454579">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/132704022/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u132704022-3.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/132704022/" class="name">猪Q</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-01-29" class="main-meta">2025-01-29 15:23:06</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16454579/">看过一天后，从三星降到两星，喜欢这部电影的这么多，不差我陈塘关百姓一个</a></h2>
+
+                <div id="review_16454579_short" class="review-short" data-rid="16454579">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        这根本就是一部不该存在的续集，不过魔童降世实在太太太成功了，能怎么办呢。 结果就是，哪吒第二部不仅没有一个很明确的主线故事，也没塑造好任何一个新角色，其中反派也不难猜，反正想搞大事情的神仙没几个好东西。 这一部的故事甚至无法用一句话概括出来。一会儿龙宫复仇，...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16454579-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16454579_full" class="hidden">
+                    <div id="review_16454579_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16454579" title="有用">
+                            3965
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16454579" title="没用">
+                            2000
+                    </a>
+                    <a href="https://movie.douban.com/review/16454579/#comments" class="reply ">2341回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16454579">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16455860">
+        <div class="main review-item" id="16455860">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/zhangfan187/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u59626068-24.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/zhangfan187/" class="name">搬砖侠</a>
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2025-01-29" class="main-meta">2025-01-29 18:39:38</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16455860/">哪吒反叛的力量：从弑父到弑神</a></h2>
+
+                <div id="review_16455860_short" class="review-short" data-rid="16455860">
+                    <div class="short-content">
+
+                        当银幕上哪吒在天元鼎内完成涅槃浴火重生时，相信所有人都会赞同，这绝不是一部普通的续作。时隔六年，导演饺子用这部期待已久的《哪吒之魔童闹海》，再次向观众证明了什么才是国产动画电影的王炸级天花板。 无论是从故事构思、角色内心挖掘、世界观构建、主题表达等剧作软层面...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16455860-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16455860_full" class="hidden">
+                    <div id="review_16455860_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16455860" title="有用">
+                            2100
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16455860" title="没用">
+                            317
+                    </a>
+                    <a href="https://movie.douban.com/review/16455860/#comments" class="reply ">227回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16455860">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16458713">
+        <div class="main review-item" id="16458713">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/96163967/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u96163967-8.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/96163967/" class="name">北桥</a>
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2025-01-30" class="main-meta">2025-01-30 01:14:07</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16458713/">最没素质的片子，内核和技法没一个能看</a></h2>
+
+                <div id="review_16458713_short" class="review-short" data-rid="16458713">
+                    <div class="short-content">
+
+                        牢记一点：销量和质量没有必然关系，否则中国最好的文学作品是《斗破苍穹》。 二次编辑（2.9）： 最近又输入和输出了很多思想和创作方面的东西，也和很多人聊了很多，最后一次在这里表明我的态度： 我不会改变我对这部影片的任何评价。 倒是需要额外解释一下，上次编辑的原意是...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16458713-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16458713_full" class="hidden">
+                    <div id="review_16458713_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16458713" title="有用">
+                            1896
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16458713" title="没用">
+                            661
+                    </a>
+                    <a href="https://movie.douban.com/review/16458713/#comments" class="reply ">1040回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16458713">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16454926">
+        <div class="main review-item" id="16454926">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/246926299/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u246926299-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/246926299/" class="name">导师永远的战士</a>
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2025-01-29" class="main-meta">2025-01-29 16:16:01</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16454926/">合格的商业片，但仍想提出质疑</a></h2>
+
+                <div id="review_16454926_short" class="review-short" data-rid="16454926">
+                    <div class="short-content">
+
+                        作为贺岁档电影，哪吒无疑是一部合格的商业片。故事节奏快，至少看着不会无聊，围绕亲情线展开，也适合全家一起看。特效场面宏大，一看便知是烧了钱的，也能值回票价来。如果是专注磕cp的无脑磕药鸡，作品也满足要求大卖特卖，两男主几乎时时黏在一起，包含同人女喜欢的两个灵...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16454926-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16454926_full" class="hidden">
+                    <div id="review_16454926_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16454926" title="有用">
+                            1303
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16454926" title="没用">
+                            318
+                    </a>
+                    <a href="https://movie.douban.com/review/16454926/#comments" class="reply ">324回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16454926">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16497950">
+        <div class="main review-item" id="16497950">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/80620968/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u80620968-9.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/80620968/" class="name">恰帕斯东风电囼</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-02-11" class="main-meta">2025-02-11 20:12:05</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16497950/">《哪吒2》与被它击中的时代保守情绪</a></h2>
+
+                <div id="review_16497950_short" class="review-short" data-rid="16497950">
+                    <div class="short-content">
+
+                        在院线春节档正式开启以前，几乎很少有人预料到一部动漫能领跑整个档期，并创下多个票房记录。除去好莱坞大片式的特效和编剧手法，对传统神话人物的改写也成为舆论关注《哪吒2》的一个焦点。 对于一部分熟悉1979年版本《哪吒闹海》的观众来说，今天的改写是颠覆性乃至带有冒犯...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16497950-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16497950_full" class="hidden">
+                    <div id="review_16497950_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16497950" title="有用">
+                            800
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16497950" title="没用">
+                            229
+                    </a>
+                    <a href="https://movie.douban.com/review/16497950/#comments" class="reply ">128回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16497950">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16456867">
+        <div class="main review-item" id="16456867">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/nothingkitsch/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u51931810-20.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/nothingkitsch/" class="name">nothing纳森</a>
+            <span class="allstar40 main-title-rating" title="推荐"></span>
+
+        <span content="2025-01-29" class="main-meta">2025-01-29 20:56:52</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16456867/">若天下无路，我就开出一条路</a></h2>
+
+                <div id="review_16456867_short" class="review-short" data-rid="16456867">
+                    <div class="short-content">
+
+                        作为第一批走进电影院的观众，趁着热乎劲儿，如实叨叨，等待了五年之久的《哪吒2》，整出了啥绝活。 先用一句话总结，从价值观构建 、视效制作、创意发挥三个层面，《哪吒2》确实是做到了在《哪吒1》基础上的全面迭代。 先说价值观构建，从人物观塑造来讲，如果说《哪吒1》的母...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16456867-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16456867_full" class="hidden">
+                    <div id="review_16456867_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16456867" title="有用">
+                            972
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16456867" title="没用">
+                            140
+                    </a>
+                    <a href="https://movie.douban.com/review/16456867/#comments" class="reply ">97回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16456867">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16453696">
+        <div class="main review-item" id="16453696">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/198094014/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u198094014-5.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/198094014/" class="name">owl</a>
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2025-01-29" class="main-meta">2025-01-29 13:01:05</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16453696/">致你我之辈 致父母之辈</a></h2>
+
+                <div id="review_16453696_short" class="review-short" data-rid="16453696">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        看完走出电影院 问妈妈：好看吗 妈妈：好看 过了两分钟 妈妈：这电影是给你们这辈看的 也是给我们这辈看的 最聪明的妈妈即刻拿捏精髓 对父母来讲 我们都是魔丸 别人家的小孩纵然是灵珠 无论如何 他们爱的还是我们 虽然说失去了才知道珍惜是句名言 可导演还是在努力告诉我们 不...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16453696-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16453696_full" class="hidden">
+                    <div id="review_16453696_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16453696" title="有用">
+                            858
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16453696" title="没用">
+                            140
+                    </a>
+                    <a href="https://movie.douban.com/review/16453696/#comments" class="reply ">89回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16453696">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16456147">
+        <div class="main review-item" id="16456147">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/177946821/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/user_normal_f.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/177946821/" class="name">垃圾别撒野！</a>
+            <span class="allstar10 main-title-rating" title="很差"></span>
+
+        <span content="2025-01-29" class="main-meta">2025-01-29 19:20:23</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16456147/">再好的故事，也会变成一盘凉透的饺子【涉剧透】</a></h2>
+
+                <div id="review_16456147_short" class="review-short" data-rid="16456147">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        【看到各位的评论真的笑了，行行行，赶快用“我是水军”自我安慰吧，跟哪吒锁死，快快去重刷几遍，不接受批评的作品，也不值得任何好评！我再次声明，好的动画≠堆砌特效，好的故事永远是真理，打着国产动画的爱国名头要求人硬夸硬捧，这才是国人最大的笑话！你们这些扣帽子、...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16456147-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16456147_full" class="hidden">
+                    <div id="review_16456147_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16456147" title="有用">
+                            1336
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16456147" title="没用">
+                            605
+                    </a>
+                    <a href="https://movie.douban.com/review/16456147/#comments" class="reply ">948回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16456147">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16448294">
+        <div class="main review-item" id="16448294">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/mirrorxv/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u43998158-61.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/mirrorxv/" class="name">徐旷来</a>
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2025-01-26" class="main-meta">2025-01-26 08:42:49</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16448294/">哪吒最早出自哪？《哪吒之魔童闹海》</a></h2>
+
+                <div id="review_16448294_short" class="review-short" data-rid="16448294">
+                    <div class="short-content">
+
+                        哪吒，一听这名字的读音，就不像汉语。 哪吒从何而来？从印度来。古人翻译佛经，有在汉字左边加口字的习惯，比如压了孙猴子五百年的五指山上的梵文六字咒语：唵（ōng）、嘛（ma）、呢（nī）、叭（bēi）、咪（mēi）、吽（hōng），意味着清除贪、嗔、痴、傲慢、嫉妒、吝啬。...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16448294-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16448294_full" class="hidden">
+                    <div id="review_16448294_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16448294" title="有用">
+                            611
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16448294" title="没用">
+                            93
+                    </a>
+                    <a href="https://movie.douban.com/review/16448294/#comments" class="reply ">92回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16448294">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16507165">
+        <div class="main review-item" id="16507165">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/114891859/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u114891859-10.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/114891859/" class="name">远方阿怪</a>
+            <span class="allstar30 main-title-rating" title="还行"></span>
+
+        <span content="2025-02-16" class="main-meta">2025-02-16 13:20:58</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16507165/">《哪吒2》让人不适的根本——聊聊中式动画“燃”的困局</a></h2>
+
+                <div id="review_16507165_short" class="review-short" data-rid="16507165">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        原载于公号“远方阿怪” &amp; “锵稿” 先啰嗦2句 聊一下哪吒。熟悉我的朋友知道，我其实不爱聊国内当下上映的热门电影，从在各大平台正式做号开始，一共也就聊了不到5部，原因在文末我会讲。这次为什么突然要认真写篇文章，而不用漫画的形式来聊这个话题呢？因为粉丝们催我多讲一...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16507165-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16507165_full" class="hidden">
+                    <div id="review_16507165_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16507165" title="有用">
+                            336
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16507165" title="没用">
+                            23
+                    </a>
+                    <a href="https://movie.douban.com/review/16507165/#comments" class="reply ">63回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16507165">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16499182">
+        <div class="main review-item" id="16499182">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/187481717/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u187481717-10.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/187481717/" class="name">circularuins</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-02-12" class="main-meta">2025-02-12 12:02:41</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16499182/">向我的朋友解释为什么我不喜欢哪吒</a></h2>
+
+                <div id="review_16499182_short" class="review-short" data-rid="16499182">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        记录一下我和她的聊天过程。 我认为这部电影的观感因个人身份认同的不同而有所差异。很多人觉得这部电影很好看，这当然没有问题。但对我而言，这部电影的问题在于，我无法脱离自身的身份认同去观看它。 在过去，当我尚未强烈意识到自己的身份时，我可以轻松地将自己代入各种角...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16499182-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16499182_full" class="hidden">
+                    <div id="review_16499182_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16499182" title="有用">
+                            562
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16499182" title="没用">
+                            66
+                    </a>
+                    <a href="https://movie.douban.com/review/16499182/#comments" class="reply ">236回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16499182">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16460507">
+        <div class="main review-item" id="16460507">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/243964489/" class="avator">
+            <img width="24" height="24" src="https://img3.doubanio.com/icon/u243964489-2.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/243964489/" class="name">啾啾喳喳</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-01-30" class="main-meta">2025-01-30 14:09:47</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16460507/">哪吒是斗牛场的一块红色披风，理性交流被严令禁止。</a></h2>
+
+                <div id="review_16460507_short" class="review-short" data-rid="16460507">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        一味炫技完全没有内核的东西真的能被称为一部合格的电影吗……如果甚至能影史留名，那只能说明观众审美的严重倒退。 有人说我的表达过于情绪化，于是尝试下理性地去探讨这部电影的缺陷。（虽然可能有些人也只会像设定好的程序一样上来就人身攻击，或是曲解我的意思，扯东扯西上...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16460507-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16460507_full" class="hidden">
+                    <div id="review_16460507_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16460507" title="有用">
+                            642
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16460507" title="没用">
+                            173
+                    </a>
+                    <a href="https://movie.douban.com/review/16460507/#comments" class="reply ">255回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16460507">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16458485">
+        <div class="main review-item" id="16458485">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/51059313/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u51059313-1.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/51059313/" class="name">蓝想容</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-01-30" class="main-meta">2025-01-30 00:32:38</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16458485/">反正给我看恶心了</a></h2>
+
+                <div id="review_16458485_short" class="review-short" data-rid="16458485">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        看完后悔了，提前订的，特意找的imax，倒不是因为票价135后悔，主要原因一个是赶着春节档看电影，我这种观影微度小警察势必要遇到很多看不过眼的合家欢观影行为，二来是看的是首映日，纯试水了，发现过几天还有imax场，后悔订早了。 先不提看的时候观影感受，看完第一反应是反...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16458485-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16458485_full" class="hidden">
+                    <div id="review_16458485_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16458485" title="有用">
+                            434
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16458485" title="没用">
+                            151
+                    </a>
+                    <a href="https://movie.douban.com/review/16458485/#comments" class="reply ">184回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16458485">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16466146">
+        <div class="main review-item" id="16466146">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/222514177/" class="avator">
+            <img width="24" height="24" src="https://img9.doubanio.com/icon/u222514177-4.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/222514177/" class="name">Meanda</a>
+            <span class="allstar20 main-title-rating" title="较差"></span>
+
+        <span content="2025-01-31" class="main-meta">2025-01-31 21:40:53</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16466146/">虚假的反父权叙事</a></h2>
+
+                <div id="review_16466146_short" class="review-short" data-rid="16466146">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        非常好的美术和特效。但是叙事还是太过经典的男性叙事那套。 陈塘关几万百姓的死，给了很多特写镜头，但是我想问，在场的主角和配角谁在乎？一切恩怨情仇的驱动，陈塘关几万百姓的死亡，是未能构成任何动机的。 所谓&#34;我命由我不由天&#34;，最终证明仍然不过是强者为尊，把作恶的人...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16466146-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16466146_full" class="hidden">
+                    <div id="review_16466146_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16466146" title="有用">
+                            303
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16466146" title="没用">
+                            77
+                    </a>
+                    <a href="https://movie.douban.com/review/16466146/#comments" class="reply ">101回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16466146">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16453268">
+        <div class="main review-item" id="16453268">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/hyb520520520/" class="avator">
+            <img width="24" height="24" src="https://img1.doubanio.com/icon/u191775825-10.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/hyb520520520/" class="name">人间烟火</a>
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2025-01-29" class="main-meta">2025-01-29 11:57:56</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16453268/">我勒个黑神话哪吒啊</a></h2>
+
+                <div id="review_16453268_short" class="review-short" data-rid="16453268">
+                    <div class="short-content">
+                            <p class="spoiler-tip">这篇影评可能有剧透</p>
+
+                        怎么能好看到这个地步啊？？！很难想象，这也许就是今年国产片最好看的了，2025年开年就给我来最佳。我其实是不喜欢第一部的，第一部节奏前面很拖沓，后面特效大战紧急集合，还喊口号。但第二部完全没有任何问题！完全没有！节奏一点都不拖沓！没有任何尴尬口号台词！就我刚看...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16453268-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16453268_full" class="hidden">
+                    <div id="review_16453268_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16453268" title="有用">
+                            313
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16453268" title="没用">
+                            87
+                    </a>
+                    <a href="https://movie.douban.com/review/16453268/#comments" class="reply ">122回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16453268">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+            
+    
+    <div data-cid="16460574">
+        <div class="main review-item" id="16460574">
+
+            
+    
+    <header class="main-hd">
+        <a href="https://www.douban.com/people/rakumm/" class="avator">
+            <img width="24" height="24" src="https://img2.doubanio.com/icon/u1017464-131.jpg">
+        </a>
+
+        <a href="https://www.douban.com/people/rakumm/" class="name">匡轶歌</a>
+            <span class="allstar50 main-title-rating" title="力荐"></span>
+
+        <span content="2025-01-30" class="main-meta">2025-01-30 14:27:43</span>
+
+
+
+    </header>
+
+
+            <div class="main-bd">
+
+                <h2><a href="https://movie.douban.com/review/16460574/">哪吒的考编之路，可怕</a></h2>
+
+                <div id="review_16460574_short" class="review-short" data-rid="16460574">
+                    <div class="short-content">
+
+                        _________ 强得可怕。 不说什么“一枝独秀”“最大赢家”，仿佛电影界的生态只能是无法共赢的你死我活，但可以说：以视效的华丽磅礴，升级的人文内核，商业性与作者性之间的平衡，东方美学意境的泼墨式呈现，全年龄层覆盖的喜剧元素……这是足以在全球动画领域闹一闹海的现象级...
+
+                        &nbsp;(<a href="javascript:;" id="toggle-16460574-copy" class="unfold" title="展开">展开</a>)
+                    </div>
+                </div>
+
+                <div id="review_16460574_full" class="hidden">
+                    <div id="review_16460574_full_content" class="full-content"></div>
+                </div>
+
+                <div class="action">
+                    <a href="javascript:;" class="action-btn up" data-rid="16460574" title="有用">
+                            234
+                    </a>
+                    <a href="javascript:;" class="action-btn down" data-rid="16460574" title="没用">
+                            46
+                    </a>
+                    <a href="https://movie.douban.com/review/16460574/#comments" class="reply ">17回应</a>
+
+                    <a href="javascript:;;" class="fold hidden" data-rid="16460574">收起</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <!-- COLLECTED JS -->
+    <!-- COLLECTED CSS -->
+</div>
+
+    <script src="https://img1.doubanio.com/cuphead/zerkalo-static/review/list.c3cec.js"></script>
+    <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+
+    
+        <div class="paginator">
+        <span class="prev">
+            &lt;前页
+        </span>
+        
+        
+
+                <span class="thispage" data-total-page="413">1</span>
+                
+            <a href="?sort=hotest&amp;start=20" >2</a>
+        
+                
+            <a href="?sort=hotest&amp;start=40" >3</a>
+        
+                
+            <a href="?sort=hotest&amp;start=60" >4</a>
+        
+                
+            <a href="?sort=hotest&amp;start=80" >5</a>
+        
+                
+            <a href="?sort=hotest&amp;start=100" >6</a>
+        
+                
+            <a href="?sort=hotest&amp;start=120" >7</a>
+        
+                
+            <a href="?sort=hotest&amp;start=140" >8</a>
+        
+                
+            <a href="?sort=hotest&amp;start=160" >9</a>
+        
+            <span class="break">...</span>
+                
+            <a href="?sort=hotest&amp;start=8220" >412</a>
+        
+            <a href="?sort=hotest&amp;start=8240" >413</a>
+        
+        <span class="next">
+            <link rel="next" href="?sort=hotest&amp;start=20"/>
+            <a href="?sort=hotest&amp;start=20" >后页&gt;</a>
+        </span>
+
+            <span class="count">(共8255条)</span>
+        </div>
+
+
+
+      </div>
+      <div class="aside">
+        
+  
+
+
+
+
+  <div class="sidebar-info-wrapper">
+    <div class="sidebar-copy">
+      
+
+
+
+
+  <p>如果你觉得一篇评论对你有帮助，请你点击“有用”。你的投票直接决定哪些评论出现在豆瓣首页和“豆瓣最受欢迎的评论”里，以及在书、电影和音乐介绍页里评论的排序。</p>
+  <p>所有“没用”的点击都是匿名的。</p>
+
+    </div>
+
+      
+  <div class="subject-title">
+    <a href="https://movie.douban.com/subject/34780991/">&gt;&nbsp;哪吒之魔童闹海</a>
+  </div>
+
+  <div class="subject-img">
+    <a href="https://movie.douban.com/subject/34780991/">
+      <img alt="哪吒之魔童闹海" title="哪吒之魔童闹海"
+           src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2916323291.webp" rel="v:image">
+    </a>
+  </div>
+
+    <div class="subject-info movie-info">
+      <ul class="info-list">
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">导演:</span>
+    <span class="info-item-val">饺子</span>
+  </li>
+
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">主演:</span>
+    <span class="info-item-val">吕艳婷 / 囧森瑟夫 / 瀚墨</span>
+  </li>
+
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">类型:</span>
+    <span class="info-item-val">剧情 / 喜剧 / 动画 / 奇幻</span>
+  </li>
+
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">地区:</span>
+    <span class="info-item-val">中国大陆</span>
+  </li>
+
+          
+  
+  <li class="info-item">
+    <span class="info-item-key">上映:</span>
+    <span class="info-item-val">2025-01-29(中国大陆)</span>
+  </li>
+
+      </ul>
+    </div>
+
+
+  </div>
+
+    <!-- douban ad begin -->
+    <div id="dale_movie_subject_reviews_middle_right"></div>
+    <!-- douban ad end -->
+
+    
+  
+  
+<p class="pl">
+  <span class="feed">    <a href="/feed/subject/34780991/reviews">订阅哪吒之魔童闹海的影评</a>  </span>
+</p>
+
+
+
+
+
+
+      </div>
+      <div class="extra">
+        
+      </div>
+    </div>
+  </div>
+
+    
+  <div id="footer">
+      <div class="footer-extra"></div>
+    
+
+<span id="icp" class="fleft gray-link">
+    &copy; 2005-2026 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    · <a href="https://help.douban.com/" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+</span>
+
+  </div>
+
+  </div>
+    
+  
+  <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/e8a7261937da62636d22ca4c579efc4a4d759b1b/css/ui/dialog.css">
+  <script src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+
+  
+  <link rel="stylesheet" href="https://img1.doubanio.com/cuphead/zerkalo-static/popup/reg_login_pop.1c720.css">
+  <script src="https://img3.doubanio.com/cuphead/zerkalo-static/popup/reg_login_popup.e77b7.js"></script>
+
+
+
+
+  
+
+  <!-- COLLECTED JS -->
+  
+  <!-- douban ad begin -->
+  
+  
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'X3o3M02ky2k',
+            criteria = '3:/subject/34780991/reviews',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_reviews_middle_right'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/ZHdhZ2Y4eC9mL2FkanMvZmE3NGZkMWY5NzhhZmM4NmZhZjMxMTllNTQ5MGIyYWRlNTUwYmI0NS9hZC5yZWxlYXNlLmpz?company_token=kX69T8w1wyOE-dale');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+  <!-- douban ad end -->
+
+  
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+  <!-- dae-web-zerkalo--default-586c49b7f4-sg6r9-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+
