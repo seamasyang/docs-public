@@ -1,0 +1,1717 @@
+<!DOCTYPE html>
+<html lang="zh-CN" class="ua-windows ua-webkit">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="renderer" content="webkit">
+    <meta name="referrer" content="always">
+    <meta name="google-site-verification" content="ok0wCgT20tBBgo9_zat2iAcimtN4Ftf5ccsh092Xeyw" />
+    <title>
+
+哪吒之魔童闹海 短评
+</title>
+    
+    <meta name="baidu-site-verification" content="cZdR4xxR7RxmM4zE" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="Sun, 6 Mar 2006 01:00:00 GMT">
+    
+    <meta name="keywords" content="哪吒之魔童闹海,影讯,排片,放映时间,电影票价,在线购票"/>
+    <meta name="description" content="哪吒之魔童闹海短评" />
+    <meta name="mobile-agent" content="format=html5; url=https://m.douban.com/movie/subject/34780991/comments"/>
+
+    <link rel="apple-touch-icon" href="https://img1.doubanio.com/cuphead/movie-static/pics/apple-touch-icon.png">
+    <link href="https://img1.doubanio.com/f/vendors/fae7e145bf16b2f427ba0fe7ef3d47c04af3a6c0/css/douban.css" rel="stylesheet" type="text/css">
+    <link href="https://img1.doubanio.com/f/vendors/ee6598d46af0bc554cecec9bcbf525b9b0582cb0/css/separation/_all.css" rel="stylesheet" type="text/css">
+    <link href="https://img1.doubanio.com/cuphead/movie-static/base/init.15f4b.css" rel="stylesheet">
+    <script type="text/javascript">var _head_start = new Date();</script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/0511abe9863c2ea7084efa7e24d1d86c5b3974f1/js/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/e258329ca4b2122b4efe53fddc418967441e0e7f/js/douban.js"></script>
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/b0d3faaf7a432605add54908e39e17746824d6cc/js/separation/_all.js"></script>
+    
+    <style type="text/css"></style>
+    <style type="text/css">img { max-width: 100%; }</style>
+    <script type="text/javascript"></script>
+    <style type="text/css">
+    .movie-summary {overflow:hidden; zoom:1;}
+    .movie-summary .movie-pic {margin-bottom:15px; margin-top:3px;}
+    .movie-summary p {margin:3px 0; padding-left:2.5em; text-indent:-2.5em; color:#111;}
+    .movie-summary p .pl, .movie-summary p a:link , .movie-summary p a:visited{color:#111;}
+    .movie-summary p a:hover {color:#fff;}
+    .trail_link,.trail_link:visited,.trail_link:hover,.trail_link:active {margin-top:5px; display:block; height:28px; width:96px; background:url('https://img3.doubanio.com/cuphead/movie-static/pics/movie_trailer_icon2.png'); overflow:hidden; line-height:99em;}
+</style>
+
+    <link rel="shortcut icon" href="https://img1.doubanio.com/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+  
+    <script type="text/javascript">var _body_start = new Date();</script>
+
+    
+    
+
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/f8b2226/shire/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+<div id="db-global-nav" class="global-nav">
+  <div class="bd">
+    
+<div class="top-nav-info">
+  <a href="https://accounts.douban.com/passport/login?source=movie" class="nav-login" rel="nofollow">登录/注册</a>
+</div>
+
+
+    <div class="top-nav-doubanapp">
+  <a href="https://www.douban.com/doubanapp/app?channel=top-nav" class="lnk-doubanapp">下载豆瓣客户端</a>
+  <div id="doubanapp-tip">
+    <a href="https://www.douban.com/doubanapp/app?channel=qipao" class="tip-link">豆瓣 <span class="version">6.0</span> 全新发布</a>
+    <a href="javascript: void 0;" class="tip-close">×</a>
+  </div>
+  <div id="top-nav-appintro" class="more-items">
+    <p class="appintro-title">豆瓣</p>
+    <p class="qrcode">扫码直接下载</p>
+    <div class="download">
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=iOS">iPhone</a>
+      <span>·</span>
+      <a href="https://www.douban.com/doubanapp/redirect?channel=top-nav&direct_dl=1&download=Android" class="download-android">Android</a>
+    </div>
+  </div>
+</div>
+
+    
+
+
+<div class="global-nav-items">
+  <ul>
+    <li class="">
+      <a href="https://www.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-main&quot;,&quot;uid&quot;:&quot;0&quot;}">豆瓣</a>
+    </li>
+    <li class="">
+      <a href="https://book.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-book&quot;,&quot;uid&quot;:&quot;0&quot;}">读书</a>
+    </li>
+    <li class="on">
+      <a href="https://movie.douban.com"  data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-movie&quot;,&quot;uid&quot;:&quot;0&quot;}">电影</a>
+    </li>
+    <li class="">
+      <a href="https://music.douban.com" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-music&quot;,&quot;uid&quot;:&quot;0&quot;}">音乐</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/podcast/" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-podcast&quot;,&quot;uid&quot;:&quot;0&quot;}">播客</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/location" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-location&quot;,&quot;uid&quot;:&quot;0&quot;}">同城</a>
+    </li>
+    <li class="">
+      <a href="https://www.douban.com/group" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-group&quot;,&quot;uid&quot;:&quot;0&quot;}">小组</a>
+    </li>
+    <li class="">
+      <a href="https://read.douban.com&#47;?dcs=top-nav&amp;dcm=douban" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-read&quot;,&quot;uid&quot;:&quot;0&quot;}">阅读</a>
+    </li>
+    <li class="">
+      <a href="https://fm.douban.com&#47;?from_=shire_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-fm&quot;,&quot;uid&quot;:&quot;0&quot;}">FM</a>
+    </li>
+    <li class="">
+      <a href="https://time.douban.com&#47;?dt_time_source=douban-web_top_nav" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-time&quot;,&quot;uid&quot;:&quot;0&quot;}">时间</a>
+    </li>
+    <li class="">
+      <a href="https://market.douban.com&#47;?utm_campaign=douban_top_nav&amp;utm_source=douban&amp;utm_medium=pc_web" target="_blank" data-moreurl-dict="{&quot;from&quot;:&quot;top-nav-click-market&quot;,&quot;uid&quot;:&quot;0&quot;}">豆品</a>
+    </li>
+  </ul>
+</div>
+
+  </div>
+</div>
+<script>
+  ;window._GLOBAL_NAV = {
+    DOUBAN_URL: "https://www.douban.com",
+    N_NEW_NOTIS: 0,
+    N_NEW_DOUMAIL: 0
+  };
+</script>
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/f8b2226/shire/bundle.js" defer="defer"></script>
+
+
+
+
+    
+
+
+    <link href="//img3.doubanio.com/dae/accounts/resources/f8b2226/movie/bundle.css" rel="stylesheet" type="text/css">
+
+
+
+
+<div id="db-nav-movie" class="nav">
+  <div class="nav-wrap">
+  <div class="nav-primary">
+    <div class="nav-logo">
+      <a href="https:&#47;&#47;movie.douban.com">豆瓣电影</a>
+    </div>
+    <div class="nav-search">
+      <form action="https:&#47;&#47;search.douban.com&#47;movie/subject_search" method="get">
+        <fieldset>
+          <legend>搜索：</legend>
+          <label for="inp-query">
+          </label>
+          <div class="inp"><input id="inp-query" name="search_text" size="22" maxlength="60" placeholder="搜索电影、电视剧、综艺、影人" value=""></div>
+          <div class="inp-btn"><input type="submit" value="搜索"></div>
+          <input type="hidden" name="cat" value="1002" />
+        </fieldset>
+      </form>
+    </div>
+  </div>
+  </div>
+  <div class="nav-secondary">
+    
+
+<div class="nav-items">
+  <ul>
+    <li    ><a href="https://movie.douban.com/cinema/nowplaying/"
+     >影讯&购票</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/explore"
+     >选电影</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/tv/"
+     >选剧集</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/chart"
+     >排行榜</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/review/best/"
+     >影评</a>
+    </li>
+    <li    ><a href="https://movie.douban.com/annual/2025/?fullscreen=1&dt_from=movie_navigation"
+     >2025年度榜单</a>
+    </li>
+    <li    ><a href="https://c9.douban.com/app/standbyme-2025/?autorotate=false&fullscreen=true&hidenav=true&monitor_screenshot=true&df_from=web_navigation"
+            target="_blank"
+     >2025年度报告</a>
+    </li>
+  </ul>
+</div>
+
+    <a href="https://movie.douban.com/annual/2025/?fullscreen=1&source=movie_navigation_logo" class="movieannual"></a>
+  </div>
+</div>
+
+<script id="suggResult" type="text/x-jquery-tmpl">
+  <li data-link="{{= url}}">
+            <a href="{{= url}}" onclick="moreurl(this, {from:'movie_search_sugg', query:'{{= keyword }}', subject_id:'{{= id}}', i: '{{= index}}', type: '{{= type}}'})">
+            <img src="{{= img}}" width="40" />
+            <p>
+                <em>{{= title}}</em>
+                {{if year}}
+                    <span>{{= year}}</span>
+                {{/if}}
+                {{if sub_title}}
+                    <br /><span>{{= sub_title}}</span>
+                {{/if}}
+                {{if address}}
+                    <br /><span>{{= address}}</span>
+                {{/if}}
+                {{if episode}}
+                    {{if episode=="unknow"}}
+                        <br /><span>集数未知</span>
+                    {{else}}
+                        <br /><span>共{{= episode}}集</span>
+                    {{/if}}
+                {{/if}}
+            </p>
+        </a>
+        </li>
+  </script>
+
+
+
+
+    <script src="//img3.doubanio.com/dae/accounts/resources/f8b2226/movie/bundle.js" defer="defer"></script>
+
+
+
+
+    
+    <div id="wrapper">
+        
+
+        
+    <div id="content">
+        
+    <h1>哪吒之魔童闹海 短评</h1>
+
+        <div class="grid-16-8 clearfix">
+            
+            
+            <div class="article">
+                
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/e8a7261937da62636d22ca4c579efc4a4d759b1b/css/ui/dialog.css">
+    <link rel="stylesheet" href="https://img1.doubanio.com/f/vendors/9aae5c6f1a6c1ef339d7c9a37d69641086bd6917/subject-comments/comments.css">
+
+    
+
+
+        
+
+
+<div class="clearfix Comments-hd">
+    <ul class="fleft CommentTabs">
+                <li class="is-active">
+                    <span>看过(627827)</span>
+                </li>
+
+
+            <li>
+                <a href="?status=F">想看(23694)</a>
+            </li>
+    </ul>
+    <div class="fright">
+        
+        <a href="javascript:;" class="comment_btn j a_show_login" name="cbtn-34780991">我来写短评</a>
+    </div>
+</div>
+
+
+        
+
+        <div class="title_line clearfix color_gray">
+            <div class="fleft Comments-sortby">
+                    <span>热门</span>
+                        <a href="?sort=time&status=P"  class="j a_show_login">最新</a>
+
+                <!-- 登录用户可见 -->
+
+            </div>
+        </div>
+        <div class="comment-filter">
+            <label>
+                <input type="radio" name="sort" value=""  checked="checked">
+                    <span class="filter-name">全部</span>
+            </label>
+            <label>
+                <input type="radio" name="sort" value="h" >
+                    <span class="filter-name">好评</span>
+            </label>
+            <label>
+                <input type="radio" name="sort" value="m" >
+                    <span class="filter-name">一般</span>
+            </label>
+            <label>
+                <input type="radio" name="sort" value="l" >
+                    <span class="filter-name">差评</span>
+            </label>
+        </div>
+
+        <div class="mod-bd" id="comments">
+            
+
+
+
+
+
+
+
+
+    
+
+        
+        <div class="comment-item" data-cid="4426957418">
+            
+    
+        <div class="avatar">
+            <a title="南赫" href="https://www.douban.com/people/54150368/">
+                <img src="https://img9.doubanio.com/icon/u54150368-75.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">12442</span>
+
+                    <input value="4426957418" type="hidden"/>
+                    <a href="javascript:;" data-id="4426957418"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/54150368/">南赫</a>
+                    <span>看过</span>
+                    <span class="allstar20 rating" title="较差"></span>
+                <span class="comment-time" title="2025-01-29 14:35:18">
+                    2025-01-29 14:35:18
+                </span>
+                <span class="comment-location">浙江</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">母亲为爱牺牲，仙鹤也要护老登；裙子软绵可撕，石矶也要服美役。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426957418"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4429745753">
+            
+    
+        <div class="avatar">
+            <a title="海底" href="https://www.douban.com/people/marinemammal/">
+                <img src="https://img9.doubanio.com/icon/u130098450-6.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">27886</span>
+
+                    <input value="4429745753" type="hidden"/>
+                    <a href="javascript:;" data-id="4429745753"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/marinemammal/">海底</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-31 10:30:26">
+                    2025-01-31 10:30:26
+                </span>
+                <span class="comment-location">浙江</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">申公豹：小镇做题家的一生</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4429745753"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426903456">
+            
+    
+        <div class="avatar">
+            <a title="Fang" href="https://www.douban.com/people/157476459/">
+                <img src="https://img2.doubanio.com/icon/u157476459-1.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">36261</span>
+
+                    <input value="4426903456" type="hidden"/>
+                    <a href="javascript:;" data-id="4426903456"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/157476459/">Fang</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time" title="2025-01-29 13:46:29">
+                    2025-01-29 13:46:29
+                </span>
+                <span class="comment-location">河北</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">烦透了这种高层隐身、中层搞事、底层遭殃的设定，无数次看得我血压飙升，哪吒虽然设定是魔，行事倒是深受忠孝仁义那套东西束缚，也不知道到底反了个啥？</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426903456"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4427073894">
+            
+    
+        <div class="avatar">
+            <a title="朝暮雪" href="https://www.douban.com/people/63688511/">
+                <img src="https://img1.doubanio.com/icon/u63688511-18.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">33719</span>
+
+                    <input value="4427073894" type="hidden"/>
+                    <a href="javascript:;" data-id="4427073894"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/63688511/">朝暮雪</a>
+                    <span>看过</span>
+                    <span class="allstar30 rating" title="还行"></span>
+                <span class="comment-time" title="2025-01-29 16:12:06">
+                    2025-01-29 16:12:06
+                </span>
+                <span class="comment-location">四川</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">很多桥段很低俗，第一部就有这样的问题，但就是不改，因为导演觉得拍得再低俗都有大把的人去看，不缺你一个。
+踩裙子、做藕粉的时候抠脚、擤鼻涕、猪放屁、随地大小便、喝尿、喝呕吐物，虽然最后没喝，但还是令人深感不适。
+导演似乎以为屎尿屁等低俗元素等同于喜剧，却不知道高级的喜剧可以让人开怀大笑的同时保持内容的雅洁，更何况这部电影的大多数受众还是小朋友。
+电影所探讨的打破宿命、反对不公本应体现在内核上，而电影中这些精神全都浮于表面，导演以为仅仅通过赋予哪吒一个奇特的长相，以及吊儿郎当、没有教养的形象就能展现其反抗精神，这和叛逆期的初中生的理解无异。
+为了多卖票房炒CP、卖腐，不能拍同性片就通过打擦边球的方式吸引观众，骗喜欢看此类情节的人去看，又当又立，但你有没有想过有些观众只是想看正经国漫，不想看卖腐？</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4427073894"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4429873335">
+            
+    
+        <div class="avatar">
+            <a title="丁小雨" href="https://www.douban.com/people/206611315/">
+                <img src="https://img2.doubanio.com/icon/u206611315-1.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">16125</span>
+
+                    <input value="4429873335" type="hidden"/>
+                    <a href="javascript:;" data-id="4429873335"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/206611315/">丁小雨</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time" title="2025-01-31 12:41:23">
+                    2025-01-31 12:41:23
+                </span>
+                <span class="comment-location">广西</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">感觉“我命由我不由天”的是申公豹，申公豹真的好努力，努力的小镇做题家，努力攀附强者才能让自己出人头地，好想哭</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4429873335"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426743530">
+            
+    
+        <div class="avatar">
+            <a title="居无间" href="https://www.douban.com/people/juwujian/">
+                <img src="https://img3.doubanio.com/icon/u49549492-13.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">15984</span>
+
+                    <input value="4426743530" type="hidden"/>
+                    <a href="javascript:;" data-id="4426743530"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/juwujian/">居无间</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-29 11:28:51">
+                    2025-01-29 11:28:51
+                </span>
+                <span class="comment-location">江苏</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">饺子的水准真的稳。本片是对第一部的全面升级，阴阳美学更加极致，水与火、红与蓝、善与恶等等元素多番碰撞与交融，最终激发出了澎湃而恢弘的冲击力。这一部的变身以及兵器的运用更燃、更爽，且富有想象力。情绪上依然是笑与泪兼具。内核上又不止于对命运不公的反抗，与不公斗争的不再只是哪吒，还有困于既定约束下退无可退的许多小人物，而当个体变成群体后，对个人命运的刻画变为对时代命运的洞察，这种主题上的升华让影片更有回味。值得二刷。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426743530"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426746507">
+            
+    
+        <div class="avatar">
+            <a title="茗政" href="https://www.douban.com/people/180518009/">
+                <img src="https://img9.doubanio.com/icon/u180518009-84.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">14690</span>
+
+                    <input value="4426746507" type="hidden"/>
+                    <a href="javascript:;" data-id="4426746507"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/180518009/">茗政</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time" title="2025-01-29 11:32:15">
+                    2025-01-29 11:32:15
+                </span>
+                <span class="comment-location">陕西</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">虽没有第一部“我命由我不由天”的惊艳金句，但更多了些“怎能不知道这世间的规则，由谁所定？”的结构性思考，无量仙翁的“个体失范代替制度失范”真是最佳切口。狠狠期待第三部！</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426746507"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426743085">
+            
+    
+        <div class="avatar">
+            <a title="boboan" href="https://www.douban.com/people/olivia-liu/">
+                <img src="https://img3.doubanio.com/icon/u1340360-17.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">15229</span>
+
+                    <input value="4426743085" type="hidden"/>
+                    <a href="javascript:;" data-id="4426743085"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/olivia-liu/">boboan</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-29 11:28:18">
+                    2025-01-29 11:28:18
+                </span>
+                <span class="comment-location">青海</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">何为“反父权”？79年的哪吒直观地以“反父亲的教导”来代表反父权的思想，19年的魔童哪吒横空出世，哪吒也得以拥有一对爱自己的爸妈，于是反父权=反命运，拒绝标签，我命由我。如果说第一部的反父权是直白对父系权威和命运掌控的反抗，那么25年第二部中的思路则全方位转变：哪吒不再为了反抗而反抗，这反而会导向另一个极端的禁锢；哪吒选择在看清了一切规则后抽身其外，不留任何转圜和调和的余地。我们多少也收到过所谓仙翁的‘绿牌’，但当你祛除所有泡沫，或许发现绿灯红灯根本没那么重要，走对自己的路，是魔又如何？！</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426743085"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426744881">
+            
+    
+        <div class="avatar">
+            <a title="ChristopherCC" href="https://www.douban.com/people/Chenyixuan1000/">
+                <img src="https://img3.doubanio.com/icon/u245397756-13.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">4616</span>
+
+                    <input value="4426744881" type="hidden"/>
+                    <a href="javascript:;" data-id="4426744881"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/Chenyixuan1000/">ChristopherCC</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time" title="2025-01-29 11:30:28">
+                    2025-01-29 11:30:28
+                </span>
+                <span class="comment-location">广东</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">能不能别放3D版本。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426744881"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4382838815">
+            
+    
+        <div class="avatar">
+            <a title="团小纸" href="https://www.douban.com/people/skymoto/">
+                <img src="https://img3.doubanio.com/icon/u34646513-532.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">8415</span>
+
+                    <input value="4382838815" type="hidden"/>
+                    <a href="javascript:;" data-id="4382838815"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/skymoto/">团小纸</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-29 11:30:51">
+                    2025-01-29 11:30:51
+                </span>
+                <span class="comment-location">天津</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">中国人有共同集体记忆的神话传说一定会提到哪吒闹海，所以春节看哪吒也是属于中国人自己的仪式感！延续第一部的优秀人设，第二部每个人物形象依旧很饱满，龙爸龙姑都好美！不过我还是最爱哪吒，他对于身份的自我认同与他的觉醒程度正相关的，让人觉得充满力量，一声声发问和呐喊震耳欲聋！真棒！2025用好电影开个好年！</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4382838815"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4428776941">
+            
+    
+        <div class="avatar">
+            <a title="凌林" href="https://www.douban.com/people/linglin630/">
+                <img src="https://img3.doubanio.com/icon/u63536124-2.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2247</span>
+
+                    <input value="4428776941" type="hidden"/>
+                    <a href="javascript:;" data-id="4428776941"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/linglin630/">凌林</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-30 17:48:12">
+                    2025-01-30 17:48:12
+                </span>
+                <span class="comment-location">安徽</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">申公豹视角get:有自己的脑子是一件多么值得庆幸的事</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4428776941"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4422773414">
+            
+    
+        <div class="avatar">
+            <a title="小烨" href="https://www.douban.com/people/yeahyeahx/">
+                <img src="https://img1.doubanio.com/icon/u3984361-140.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">3286</span>
+
+                    <input value="4422773414" type="hidden"/>
+                    <a href="javascript:;" data-id="4422773414"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/yeahyeahx/">小烨</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-29 11:50:09">
+                    2025-01-29 11:50:09
+                </span>
+                <span class="comment-location">广东</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">中国传统神话故事需要在创新中传承，哪吒系列就是一个好案例。哪吒本来就是我很喜欢的一个神话人物，他与悟空极为相似，这二者之所以能让人们代代相传反复改编成影视、游戏，就是因为他们有着打破刻板印象、打破世俗规训的反叛精神。很喜欢电影里的台词“小爷是魔，那又如何”，延续了这个IP的最重要的核心“不认命”，老子就是要跟天斗跟地斗跟命运斗到底。当拥有的被剥夺，那就奋起反抗，“我活不活无所谓”，有种“宁为玉碎，不为瓦全”的悲壮。哪吒誓死不从、逆天改命，大部分进步都是从“不盲从、不认命”开始，我偏要走出自己的路，步履不停，便是自救之法。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4422773414"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426744466">
+            
+    
+        <div class="avatar">
+            <a title="kako" href="https://www.douban.com/people/164984258/">
+                <img src="https://img2.doubanio.com/icon/u164984258-1.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">3063</span>
+
+                    <input value="4426744466" type="hidden"/>
+                    <a href="javascript:;" data-id="4426744466"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/164984258/">kako</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-29 11:29:59">
+                    2025-01-29 11:29:59
+                </span>
+                <span class="comment-location">四川</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">太帅了啊啊啊啊啊啊啊啊啊！！！！！东海龙王太帅了！！！！！！</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426744466"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426840210">
+            
+    
+        <div class="avatar">
+            <a title="天命咸鱼111" href="https://www.douban.com/people/183070225/">
+                <img src="https://img1.doubanio.com/icon/u183070225-28.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">1099</span>
+
+                    <input value="4426840210" type="hidden"/>
+                    <a href="javascript:;" data-id="4426840210"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/183070225/">天命咸鱼111</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-29 12:49:15">
+                    2025-01-29 12:49:15
+                </span>
+                <span class="comment-location">河南</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">家人们谁懂啊，敖丙也太适合当老婆了</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426840210"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4378404853">
+            
+    
+        <div class="avatar">
+            <a title="[未注销]" href="https://www.douban.com/people/thedarknine/">
+                <img src="https://img9.doubanio.com/icon/u76046276-6.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">5112</span>
+
+                    <input value="4378404853" type="hidden"/>
+                    <a href="javascript:;" data-id="4378404853"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/thedarknine/">[未注销]</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time" title="2025-01-29 11:30:32">
+                    2025-01-29 11:30:32
+                </span>
+                <span class="comment-location">江苏</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">《哪吒第二部：战火陈塘》。
+讲出来了；看进去了。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4378404853"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4427317380">
+            
+    
+        <div class="avatar">
+            <a title="白影" href="https://www.douban.com/people/2499863/">
+                <img src="https://img3.doubanio.com/icon/u2499863-3.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">1265</span>
+
+                    <input value="4427317380" type="hidden"/>
+                    <a href="javascript:;" data-id="4427317380"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/2499863/">白影</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-29 18:59:06">
+                    2025-01-29 18:59:06
+                </span>
+                <span class="comment-location">重庆</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">活该赚钱的水平</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4427317380"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4427583795">
+            
+    
+        <div class="avatar">
+            <a title="ハル" href="https://www.douban.com/people/Haru24601/">
+                <img src="https://img1.doubanio.com/icon/u135079705-19.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">3966</span>
+
+                    <input value="4427583795" type="hidden"/>
+                    <a href="javascript:;" data-id="4427583795"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/Haru24601/">ハル</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time" title="2025-01-29 21:35:39">
+                    2025-01-29 21:35:39
+                </span>
+                <span class="comment-location">重庆</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">这才是真正的封神榜吧。政治明喻的内核剑指东方厚黑智慧。作为正统权力的“阐教”如何通过资源分配和政治运作铲除异己，所谓的“天理”都是权谋的包装，本质还是抢夺政治资源。相对应的，边缘化的神魔群体因未能结成坚固的政治同盟而内部分崩离析，最终还是靠两位主角的粘合剂完成了对“顺天应人”霸权的反叛。很好的一点是把家族矛盾和政治矛盾编织进了同一个叙事架构里（龙族），对东方式以宗亲血缘为纽带的权力分配体系有一定的映射。画面精致，镜头设计有思考，动作场面大多时候很漫威，高潮很热血日漫，展现出非常成熟的动画工业制作水平。有萌物有情感有画面有爽感，信息量在线，剧作扎实，还能看到一些更本土的文化解读，用商业逻辑来评判挺优秀的。btw我需要立刻知道结界兽土拨鼠周边的购买🔗和东海龙王的联系方式^ ^</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4427583795"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426764205">
+            
+    
+        <div class="avatar">
+            <a title="安托万的黑眼睛" href="https://www.douban.com/people/Nightwish2016/">
+                <img src="https://img3.doubanio.com/icon/u1911125-12.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">2547</span>
+
+                    <input value="4426764205" type="hidden"/>
+                    <a href="javascript:;" data-id="4426764205"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/Nightwish2016/">安托万的黑眼睛</a>
+                    <span>看过</span>
+                    <span class="allstar50 rating" title="力荐"></span>
+                <span class="comment-time" title="2025-01-29 11:47:17">
+                    2025-01-29 11:47:17
+                </span>
+                <span class="comment-location">天津</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">特效太牛了，太燃了，依然很搞笑，我们的吒儿瞬间长大，破茧成蝶，涅槃重生。</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426764205"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4426742976">
+            
+    
+        <div class="avatar">
+            <a title="蝴蝶不梦庄周" href="https://www.douban.com/people/221237416/">
+                <img src="https://img3.doubanio.com/icon/u221237416-3.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">5963</span>
+
+                    <input value="4426742976" type="hidden"/>
+                    <a href="javascript:;" data-id="4426742976"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/221237416/">蝴蝶不梦庄周</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time" title="2025-01-29 11:28:09">
+                    2025-01-29 11:28:09
+                </span>
+                <span class="comment-location">浙江</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">贴合时代背景，幽默的片段的确能够吸引娱乐时代大众审美；总的来说：不管从特效，人物设定，造型设计，还是台词，配音演员的表现都值得一看，这是一个好的开始，或者说国漫已经在路上了</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4426742976"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+        
+        <div class="comment-item" data-cid="4429407073">
+            
+    
+        <div class="avatar">
+            <a title="咚噢" href="https://www.douban.com/people/168327205/">
+                <img src="https://img9.doubanio.com/icon/u168327205-5.jpg" />
+            </a>
+        </div>
+    <div class="comment">
+        <h3>
+            <span class="comment-vote">
+                    <span class="votes vote-count">3337</span>
+
+                    <input value="4429407073" type="hidden"/>
+                    <a href="javascript:;" data-id="4429407073"
+                        class="j a_show_login"
+                        onclick="">有用</a>
+
+                <!-- 删除短评 -->
+            </span>
+            <span class="comment-info">
+                <a href="https://www.douban.com/people/168327205/">咚噢</a>
+                    <span>看过</span>
+                    <span class="allstar40 rating" title="推荐"></span>
+                <span class="comment-time" title="2025-01-31 00:02:07">
+                    2025-01-31 00:02:07
+                </span>
+                <span class="comment-location">河南</span>
+            </span>
+        </h3>
+        <p class="comment-content">
+            
+                <span class="short">承认很厉害，但说实话希望女性角色不再是推动剧情的NPC</span>
+        </p>
+        <div class="comment-report" data-url="https://movie.douban.com/subject/34780991/comments?comment_id=4429407073"></div>
+    </div>
+    <script>
+        (function(){
+            $("body").delegate(".comment-item", 'mouseenter mouseleave', function (e) {
+                switch (e.type) {
+                    case "mouseenter":
+                    $(this).find(".comment-report").css('visibility', 'visible');
+                    break;
+                    case "mouseleave":
+                    $(this).find(".comment-report").css('visibility', 'hidden');
+                    break;
+                }
+            });
+        })()
+    </script>
+
+        </div>
+
+
+
+
+
+
+
+        <div id="paginator" class="center">
+              <a href="?start=0&amp;limit=20&amp;sort=new_score&amp;status=P&amp;percent_type=" data-page='first'><< 首页</a>
+                <a href="?start=-20&amp;limit=-20&amp;sort=new_score&amp;status=P&amp;percent_type=" data-page='prev'>< 前页</a>
+                <a href="?start=20&amp;limit=20&amp;sort=new_score&amp;status=P&amp;percent_type=" data-page='next' class="next">后页 ></a>
+        </div>
+
+
+
+
+        </div>
+
+            </div>
+            <div class="aside">
+                
+
+    <!-- 加载 raikiri.js -->
+
+
+    
+<p class="pl2">&gt; <a href="https://movie.douban.com/subject/34780991/">去 哪吒之魔童闹海 的页面</a></p>
+
+    <div class="indent">
+        
+
+
+
+
+
+
+
+
+
+<div class="movie-summary">
+    <link rel="stylesheet" href="https://img3.doubanio.com/cuphead/movie-static/subject/btn_complete_video.3d5bf.css">
+        <div class="movie-pic"><a  href="https://movie.douban.com/subject/34780991/" ><img alt="哪吒之魔童闹海" title="哪吒之魔童闹海" src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2916323291.webp" rel="v:image" width="100px"></a></div>
+    <span class="attrs">
+        
+            
+        <p>
+            <span class="pl">导演:</span>
+                
+                <a  href="https://www.douban.com/personage/27556372/">饺子</a>
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">主演:</span>
+                
+                <a  href="https://www.douban.com/personage/34468510/">吕艳婷</a> / <a  href="https://www.douban.com/personage/30313971/">囧森瑟夫</a> / <a  href="https://www.douban.com/personage/30313970/">瀚墨</a> / <a  href="https://www.douban.com/personage/27497269/">陈浩</a> / <a  href="https://www.douban.com/personage/27581314/">绿绮</a> / <a  href="https://www.douban.com/personage/34481455/">张珈铭</a> / <a  href="https://www.douban.com/personage/34468512/">杨卫</a> / <a  href="https://www.douban.com/personage/27495035/">王德顺</a> / <a  href="https://www.douban.com/personage/34814731/">雨辰</a> / <a  href="https://www.douban.com/personage/34805983/">李南</a>
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">类型:</span>
+                剧情, 喜剧, 动画, 奇幻
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">地区:</span>
+                中国大陆
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">片长:</span>
+                144分钟
+        </p>
+
+        
+            
+        <p>
+            <span class="pl">上映:</span>
+                2025-01-29(中国大陆)
+        </p>
+
+        <a  class="trail_link" data-trailer-id="319454" href="https://movie.douban.com/trailer/319454/#content" >预告片</a>
+    </span>
+</div>
+
+
+
+    </div>
+    <div id="dale_movie_subject_comments_bottom_right"></div>
+    <a href="https://help.douban.com/blackroom">> 豆瓣违规公示</a>
+
+            </div>
+            <div class="extra">
+                
+            </div>
+        </div>
+    </div>
+
+        
+    <div id="footer">
+            <div class="footer-extra"></div>
+        
+<span id="icp" class="fleft gray-link">
+    &copy; 2005－2026 douban.com, all rights reserved 北京豆网科技有限公司
+</span>
+
+<a href="https://www.douban.com/hnypt/variformcyst.py" style="display: none;"></a>
+
+<span class="fright">
+    <a href="https://www.douban.com/about">关于豆瓣</a>
+    · <a href="https://www.douban.com/jobs">在豆瓣工作</a>
+    · <a href="https://www.douban.com/about?topic=contactus">联系我们</a>
+    · <a href="https://www.douban.com/about/legal">法律声明</a>
+    
+    · <a href="https://help.douban.com/?app=movie" target="_blank">帮助中心</a>
+    · <a href="https://www.douban.com/doubanapp/">移动应用</a>
+</span>
+
+    </div>
+
+    </div>
+    <!-- COLLECTED JS -->
+        
+        
+    <link rel="stylesheet" type="text/css" href="https://img1.doubanio.com/f/vendors/e8a7261937da62636d22ca4c579efc4a4d759b1b/css/ui/dialog.css" />
+    <link rel="stylesheet" type="text/css" href="https://img1.doubanio.com/cuphead/movie-static/mod/login_pop.b2f60.css" />
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    <script type="text/javascript">
+        var HTTPS_DB = "https://www.douban.com"
+    </script>
+    <script type="text/javascript" src="https://img1.doubanio.com/cuphead/movie-static/mod/login_pop.89db9.js"></script>
+
+    
+    <script type="text/javascript" src="https://img1.doubanio.com/f/vendors/f25ae221544f39046484a823776f3aa01769ee10/js/ui/dialog.js"></script>
+    
+
+
+
+
+    
+<script type="text/javascript">
+    (function (global) {
+        var newNode = global.document.createElement('script'),
+            existingNode = global.document.getElementsByTagName('script')[0],
+            adSource = '//erebor.douban.com/',
+            userId = '',
+            browserId = 'X3o3M02ky2k',
+            criteria = '3:/subject/34780991/comments?satus=P',
+            preview = '',
+            debug = false,
+            adSlots = ['dale_movie_subject_comments_bottom_right'];
+
+        global.DoubanAdRequest = {src: adSource, uid: userId, bid: browserId, crtr: criteria, prv: preview, debug: debug};
+        global.DoubanAdSlots = (global.DoubanAdSlots || []).concat(adSlots);
+
+        newNode.setAttribute('type', 'text/javascript');
+        newNode.setAttribute('src', '//img1.doubanio.com/ZHdhZ2Y4eC9mL2FkanMvZmE3NGZkMWY5NzhhZmM4NmZhZjMxMTllNTQ5MGIyYWRlNTUwYmI0NS9hZC5yZWxlYXNlLmpz?company_token=kX69T8w1wyOE-dale');
+        newNode.setAttribute('async', true);
+        existingNode.parentNode.insertBefore(newNode, existingNode);
+    })(this);
+</script>
+
+
+
+
+    <script src="https://img1.doubanio.com/f/vendors/33bb917eefbefa3c41973b87efd26faa433e980e/subject-comments/comments.js"></script>
+    <script>
+        if (window.SUBJECT_COMMENTS) {
+            // expand handler
+            SUBJECT_COMMENTS.createExpandHandler({
+                root: document.getElementById('comments'),
+            });
+            // comments
+            SUBJECT_COMMENTS.createComments({
+                subject_id: "34780991",
+                state: {
+                    percent_type: "",
+                    start: parseInt("0", 10),
+                    limit: parseInt("20", 10),
+                    status: "P",
+                    sort: "new_score"
+                },
+                afterFetch: () => {
+                    console.log('afterFetch')
+                    if (window.createReportButton) {
+                        window.createReportButton({
+                            selector: '.comment-report',
+                            text: '投诉',
+                            types: ['comment']
+                        })
+                    }
+                }
+            });
+            // vote
+            SUBJECT_COMMENTS.createVoteHandler({
+                api: '/j/comment/vote',
+                root: document.getElementById('comments'),
+                voteSelector: '.vote-comment',
+                textSelector: '.vote-count',
+                is_released: "true",
+                alert_text: "该电影还未上映，不能投票噢",
+                afterVote: function (elem) {
+                    var parentNode = elem.parentNode;
+                    var successElem = document.createElement('span');
+                    successElem.innerHTML = '已投票';
+                    parentNode.removeChild(elem);
+                    parentNode.appendChild(successElem);
+                }
+            })
+        }
+    </script>
+
+
+    
+  
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+(function() {
+    var p=(('https:' == document.location.protocol) ? 'https' : 'http'), u=p+'://fundin.douban.com/';
+    _paq.push(['setTrackerUrl', u+'piwik']);
+    _paq.push(['setSiteId', '100001']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript';
+    g.defer=true;
+    g.async=true;
+    g.src=p+'://img3.doubanio.com/dae/fundin/piwik.js';
+    s.parentNode.insertBefore(g,s);
+})();
+</script>
+
+<script type="text/javascript">
+var setMethodWithNs = function(namespace) {
+  var ns = namespace ? namespace + '.' : ''
+    , fn = function(string) {
+        if(!ns) {return string}
+        return ns + string
+      }
+  return fn
+}
+
+var gaWithNamespace = function(fn, namespace) {
+  var method = setMethodWithNs(namespace)
+  fn.call(this, method)
+}
+
+var _gaq = _gaq || []
+  , accounts = [
+      { id: 'UA-7019765-1', namespace: 'douban' }
+    , { id: 'UA-7019765-19', namespace: '' }
+    ]
+  , gaInit = function(account) {
+      gaWithNamespace(function(method) {
+        gaInitFn.call(this, method, account)
+      }, account.namespace)
+    }
+  , gaInitFn = function(method, account) {
+      _gaq.push([method('_setAccount'), account.id]);
+      _gaq.push([method('_setSampleRate'), '5']);
+
+      
+  _gaq.push([method('_addOrganic'), 'google', 'q'])
+  _gaq.push([method('_addOrganic'), 'baidu', 'wd'])
+  _gaq.push([method('_addOrganic'), 'soso', 'w'])
+  _gaq.push([method('_addOrganic'), 'youdao', 'q'])
+  _gaq.push([method('_addOrganic'), 'so.360.cn', 'q'])
+  _gaq.push([method('_addOrganic'), 'sogou', 'query'])
+  if (account.namespace) {
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣'])
+    _gaq.push([method('_addIgnoredOrganic'), 'douban'])
+    _gaq.push([method('_addIgnoredOrganic'), '豆瓣网'])
+    _gaq.push([method('_addIgnoredOrganic'), 'www.douban.com'])
+  }
+
+      if (account.namespace === 'douban') {
+        _gaq.push([method('_setDomainName'), '.douban.com'])
+      }
+
+        _gaq.push([method('_setCustomVar'), 1, 'responsive_view_mode', 'desktop', 3])
+
+        _gaq.push([method('_setCustomVar'), 2, 'login_status', '0', 2]);
+
+      _gaq.push([method('_trackPageview')])
+    }
+
+for(var i = 0, l = accounts.length; i < l; i++) {
+  var account = accounts[i]
+  gaInit(account)
+}
+
+
+;(function() {
+    var ga = document.createElement('script');
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    ga.setAttribute('async', 'true');
+    document.documentElement.firstChild.appendChild(ga);
+})()
+</script>
+
+
+
+
+
+
+
+
+      
+
+    <!-- dae-web-movie--default-696f4f8f6f-dj6g7-->
+
+  <script>_SPLITTEST=''</script>
+</body>
+
+</html>
+
+

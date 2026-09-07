@@ -35,6 +35,7 @@ htmlcov/
 .coverage.*
 coverage.xml
 
+
 # Logs / databases
 *.log
 *.db
@@ -43,3 +44,7 @@ coverage.xml
 # OS generated files
 .DS_Store
 Thumbs.db
+.env
+
+
+codes
