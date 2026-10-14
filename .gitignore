@@ -50,3 +50,7 @@ Thumbs.db
 codes/
 temp.ipynb
 temp.json
+.playwright-mcp/
+temp.py
+temp-openai.py
+CLAUDE.md
